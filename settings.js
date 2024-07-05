@@ -10,7 +10,7 @@ global.APIs = {
 
 // Apikey
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'apikeynya',
+   'https://api.zeeoneofc.my.id': '4icZ3Q9oMAKkYBj',
    'https://api.koi.pics':'apikeynya',
 }
 global.apikeykoi='apikeykoi'
